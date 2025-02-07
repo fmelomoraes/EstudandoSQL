@@ -1,0 +1,2 @@
+# EstudandoSQL
+Exercicios e Aprendizado
